@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">life in square</string>
+    <string name="txt_mainMenu_nameGame">life in square</string>
+    <string name="txt_mainMenu_newGame">Играть</string>
+    <string name="txt_mainMenu_settings">Настройки</string>
+    <string name="txt_mainMenu_present">Получить подарок</string>
+    <string name="txt_mainMenu_exitGame">Выход из игры</string>
+    <string name="txt_mainMenu_results">Результаты</string>
+
+
+    <string name="txt_GameScene_stateReady">Начнем?</string>
+
+    <string name="txt_hud_passedDistance">Пройдено</string>
+    <string name="txt_hud_currentSpeedPlayer">Скорость</string>
+    <string name="txt_hud_currentShieldsPlayer">Защита</string>
+
+    <string name="txt_gameSceneGameOver_gameOver">Вы проиграли</string>
+    <string name="txt_gameSceneGameOver_restart">Играть снова</string>
+    <string name="txt_gameSceneGameOver_exit">Меню</string>
+    <string name="txt_gameSceneGameOver_distance">Пройденая дистанция:</string>
+
+    <string name="txt_top_distance">Лучшие результаты</string>
+</resources>
